@@ -1,0 +1,20 @@
+{
+    "cards": {
+        "gallery": {
+            "title": "📸 Explore Your Memories in the Gallery",
+            "text": "Relive your cherished moments with our intuitive Gallery feature. Easily organize and navigate through your photo collection. Share your favorite memories with friends and family, or simply enjoy the nostalgia of your journey captured in pixels."
+        },
+        "shoppingList": {
+            "title": "🛒 Smart Shopping List",
+            "text": "Simplify your shopping experience with our Smart Shopping List feature. Effortlessly organize your grocery needs, track your purchases, and never forget an item again. Create and customize lists for various occasions, ensuring you always have everything you need at your fingertips."
+        },
+        "recipes": {
+            "title": "🍳 Cook Up Delightful Culinary Adventures with Recipes",
+            "text": "Discover a world of culinary creativity with our curated Recipes section. From quick and easy weekday meals to gourmet delights, find inspiration for every occasion. Step-by-step instructions, ingredient lists, and beautiful images will guide you in creating delicious masterpieces in your own kitchen."
+        },
+        "forecast": {
+            "title": "🌦️ Stay Informed with Weather Forecast",
+            "text": "Plan your day with confidence using our Weather Forecast feature. Stay updated on the latest weather conditions, so you can make informed decisions about your activities. Whether it's a sunny day for an outdoor adventure or a rainy evening perfect for cozying up at home, our real-time weather updates have you covered."
+        }
+    }
+}
